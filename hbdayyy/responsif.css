@@ -1,0 +1,11 @@
+@media (min-width: 360px) and (max-width: 750px) {
+    .ml1 {
+        margin-top: 0%;
+    }
+
+    .base_container {
+        padding: 10px;
+        text-align: center;
+        margin: 20% auto;
+    }
+}
